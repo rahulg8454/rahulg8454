@@ -23,12 +23,12 @@
 ## 🚀 Projects
 ### 🔹 Job Application Tracker
 - Built using TypeScript & JavaScript
-🔗 https://github.com/rahulg8454/job-application-tracker
+- 🔗 https://github.com/rahulg8454/job-application-tracker
 
 ### 🔹 BrightBolt
 - JavaScript-based project with clean UI
 - Focus on performance and usability
-🔗 https://github.com/rahulg8454/BrightBolt
+- 🔗 https://github.com/rahulg8454/BrightBolt
 
 ---
 
