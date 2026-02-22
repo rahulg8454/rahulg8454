@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900"/>
 </p>
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN | Problem Solver</h3>
