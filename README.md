@@ -16,13 +16,17 @@
 ---
 ## 🚀 Featured Projects
 
-### 🔹 Job Application Tracker
-Tech: React, Node.js, Express, MongoDB  
+### 🔹 Job Application Tracker – Full Stack Web Application
+Tech: React.js, Node.js, Express.js, MongoDB, JWT, bcrypt  
 👉 [View Project](https://github.com/rahulg8454/job-application-tracker)
 
-### 🔹 Portfolio Website
-Tech: TypeScript, React  
-👉 [View Project](https://github.com/rahulg8454/rahul-portfolio)
+### 🔹 BrightBolt – Quiz Management System
+Tech: React.js, Node.js, Express.js, MongoDB  
+👉 [View Project](https://github.com/rahulg8454/BrightBolt)
+
+### 🔹 Express Cart – E-commerce Frontend
+Tech: React.js, TypeScript, Vite, Tailwind CSS  
+👉 [View Project](https://github.com/rahulg8454/express-cart)
 
 ---
 ## 🛠 Languages & Tools
