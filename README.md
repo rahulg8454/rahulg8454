@@ -52,5 +52,5 @@ Tech: React.js, TypeScript, Vite, Tailwind CSS
 ## 🌐 Connect With Me
 
 - 📧 Email: rahul01.org@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/rahul-gupta-077526277
-- 💻 LeetCode: https://leetcode.com/u/therahul/
+- 💼 LinkedIn: https://linkedin.com/in/rahulgupta-mern-dev
+- 💻 LeetCode: https://leetcode.com/u/therahulg
