@@ -29,7 +29,7 @@ Tech: React.js, TypeScript, Vite, Tailwind CSS
 👉 [View Project](https://github.com/rahulg8454/express-cart)
 
 ---
-## 🛠 Languages & Tools
+## 🛠 Language & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,react,nodejs,express,mongodb,html,css,git,github,vscode" />
