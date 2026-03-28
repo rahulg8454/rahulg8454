@@ -43,10 +43,13 @@ Tech: React.js, TypeScript, Vite, Tailwind CSS
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulg8454&theme=tokyonight" />
 </p>
 
----
-## 🔥 Contribution Graph
+---## 🔥 Contribution Graph
 
 ![Rahul's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulg8454&theme=tokyo-night)
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/therahulg?theme=dark&ext=activity)
 
 ---
 ## 🌐 Connect With Me
