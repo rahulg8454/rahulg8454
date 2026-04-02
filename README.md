@@ -52,7 +52,7 @@ Tech: React.js, TypeScript, Vite, Tailwind CSS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/therahulg?theme=dark&ext=activity)
 
 ---
-## 🌐 Connect With Me
+## 🌐 Connect With Me 
 
 - 📧 Email: rahul01.org@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/rahulgupta-mern-dev
