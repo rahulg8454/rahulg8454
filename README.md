@@ -14,7 +14,7 @@
 - ⚡ Goal: Become strong Backend & System Design Engineer
 
 ---
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
 
 ### 🔹 Job Application Tracker – Full Stack Web Application
 Tech: React.js, Node.js, Express.js, MongoDB, JWT, bcrypt  
